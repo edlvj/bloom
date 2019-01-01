@@ -1,0 +1,3 @@
+project=bloom
+test=rspec
+template=erb
